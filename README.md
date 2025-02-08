@@ -1,5 +1,3 @@
-# DOSP Project - Team 27
-
 ## COP5615 - Distributed Operating System Principles  
 ### Fall 2023  
 ### Programming Assignment #1  
